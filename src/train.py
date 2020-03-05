@@ -28,7 +28,6 @@ import time
 import random
 
 from utils import LabelConverter
-import crnn as net
 import params
 from dataset import SyntheticChineseStringLmdbDataset
 
